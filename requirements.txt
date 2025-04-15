@@ -1,0 +1,9 @@
+FastAPI
+uvicorn
+whisper
+pydub
+numpy
+scipy
+torch
+speechrecognition
+librosa
